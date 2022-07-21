@@ -1,7 +1,5 @@
-Limonata Tarifi
+Limonata Tarifimiz
 
 1.seker
 2.su
-3.Lmon
-4.Nane
-5.Buz
+3.Lemon
